@@ -1,0 +1,65 @@
+.droit , .gauche
+{
+    width: var(--w-50px);
+    height: var(--w-50px);
+    /* padding: 0 35px; */
+}
+
+/* index */
+.girl-index
+{
+    height: var(--h-520px);
+    width: auto;
+}
+
+/* prestation */
+.size-img-prestation-1
+{
+    width: var(--w-500px);
+    height: auto;
+}
+
+.size-img-prestation-2
+{
+    width: auto;
+    height: var(--h-500px);
+}
+
+
+
+/* mod-anniverssaire */
+.A-child-1
+{
+    width: 375px;
+}
+
+.A-child-3
+{
+    width: 375px;
+    height: 300px;
+}
+.A-child-2
+{
+    width: 350px;
+    flex-shrink: 0;
+}
+.A-child-5
+{
+    height: 277px;
+    width: auto;
+}
+
+
+/* mod-mariage */
+.m2, .m4
+{
+    width: 405px;
+    height: 500px;
+}
+
+.m1, .m3
+{
+    width: 350px;
+    height: 300px;
+}
+

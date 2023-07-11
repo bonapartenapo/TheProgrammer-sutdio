@@ -1,0 +1,47 @@
+/* section */
+.section-3 > .text-article-section-3
+{
+  text-align: center;
+  padding-top: var(--pt-L2);
+}
+
+.text-img-section-3-prestation
+{
+  /* padding-left: var(--pl-5rem); */
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  /* padding-top: var(--pt-L2); */
+}
+
+.text-section-3-prestation 
+{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.sous-text-section-3 {
+  position: relative;
+  top: 1.75rem;
+}
+
+.categories-section-3 {
+  display: flex;
+  gap: var(--gap-L2);
+}
+
+.left-categories-section-3
+{
+  float: right;
+  position: relative;
+  right: 8rem;
+  top: 2.5rem
+}
+
+.left-section-3 {
+  position: relative;
+  left: 5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}

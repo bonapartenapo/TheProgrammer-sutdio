@@ -1,0 +1,16 @@
+@import url(tools/variables.css);
+@import url(base/body.css);
+
+@import url(tools/btn.css);
+@import url(tools/nav.css);
+@import url(tools/size-btn.css);
+@import url(tools/title.css);
+@import url(tools/size-img.css);
+
+@import url(global/header.css);
+@import url(page/index.css);
+@import url(page/prestation.css);
+@import url(page/mod-anniverssaire.css);
+@import url(page/reservation.css);
+@import url(page/about.css);
+@import url(global/footer.css);

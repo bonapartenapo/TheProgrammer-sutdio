@@ -1,0 +1,12 @@
+header, .li-header
+{
+    display: flex;
+    justify-content: space-between;
+}
+.li-header
+{
+    gap: 2rem;
+    list-style: none;
+    text-decoration: none;
+    color: var(--white);
+}

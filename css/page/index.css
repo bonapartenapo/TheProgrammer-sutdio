@@ -1,0 +1,116 @@
+
+/* article */
+.index-article-1
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.below-article-1
+{
+    margin-top: auto; /*declae ver le bas */
+}
+/*section 1*/
+
+.section-3 > .text-article-section-3
+{
+  text-align: center;
+  padding-top: var(--pt-L2);
+}
+
+.text-img-section-3
+{
+  padding-left: var(--pl-5rem);
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: var(--pt-L2);
+}
+
+.text-section-3 {
+  position: relative;
+  top: 5rem;
+  left: 5rem;
+}
+
+.sous-text-section-3 {
+  position: relative;
+  top: 1.75rem;
+}
+
+.categories-section-3 {
+  display: flex;
+  gap: var(--gap-L2);
+}
+
+.left-categories-section-3
+{
+  float: right;
+  position: relative;
+  right: 8rem;
+  top: 2.5rem
+}
+
+.left-section-3 {
+  position: relative;
+  left: 5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.direction-img {
+  height: 2.25rem;
+  width: 6rem;
+}
+.direction
+{
+    display: flex;
+    gap: var(--gap-L2);
+}
+
+/* section 2 */
+.section-4 , .section-5
+{
+  display: flex;
+}
+.top-below-section-4
+{
+  width: 300px;
+  padding-left: var(--pl-5rem);
+  padding-top: 9rem;
+}
+.below-section-4
+{
+  text-align: center;
+}
+
+
+/* section-3 */
+.section-5
+{
+  padding-left: var(--pl-5rem);
+}
+
+
+
+.avis-client-index
+{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  top: 8rem;
+  width: 100%;
+  
+}
+
+.top-section-5
+{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.shoe-section-3-index
+{
+  border-radius: 15px;
+}
+

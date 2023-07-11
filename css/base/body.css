@@ -1,0 +1,12 @@
+body
+{
+    background-color: var(--dark-mode);
+    color: #FFFFFF;
+    font-family: poppins;
+    padding: var(--p-L1);
+}
+li
+{
+    text-decoration: none;
+    list-style: none;
+}

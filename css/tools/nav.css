@@ -1,0 +1,8 @@
+.li-nav
+{
+    display: flex;
+    justify-content: center;
+    gap: var(--gap-L4);
+    
+
+}
